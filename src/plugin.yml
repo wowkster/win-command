@@ -1,0 +1,13 @@
+name: WinCommand
+version: 1.0
+main: com.adrianwowk.wincommand.SpigotPlugin
+author: Adrian Wowk
+commands:
+  win:
+  winreload:
+api-version: 1.14
+permissions:
+  wincommand.command:
+    default: op
+  wincommand.reload:
+    default: op

@@ -1,0 +1,16 @@
+title: "&6VICTORY"
+subtitle: "&b%WINNER% &fwon"
+winner-subtitle: "&eYou Won!"
+prefix: "&7[&bWinCommand&7] &e"
+timings:
+  fade-in: 20
+  stay: 100
+  fade-out: 20
+
+sounds:
+  #Based on the Bukkit Sound Enum. To find a list of all available sounds, go to https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+  winner-sound: "UI_TOAST_CHALLENGE_COMPLETE"
+  other-sound: "ENTITY_DRAGON_FIREBALL_EXPLODE"
+  play-sound: true
+  volume: 1.0
+  pitch: 1.0
